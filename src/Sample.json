@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "JON GAMBRELL, AAMER MADHANI, ZEKE MILLER",
+      "title": "Islamic Resistance in Iraq group is to blame for Jordan drone strike that killed 3 troops, US says - The Associated Press",
+      "description": "The United States has attributed the drone attack that killed three U.S. service members in Jordan to the Islamic Resistance in Iraq, an umbrella group of Iran-backed militias that includes the militant group Kataib Hezbollah. National Security Council spokes…",
+      "url": "https://apnews.com/article/yemen-houthi-us-navy-mideast-tensions-israel-hamas-red-sea-6d5662d09aad8aed0875025b75928ef5",
+      "urlToImage": "https://dims.apnews.com/dims4/default/d460d27/2147483647/strip/true/crop/1844x1037+78+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc2%2F8e%2F8f18a324b0686c13bcdb87dca329%2F13a02bd1dbb54c1395a617f4e73e481f",
+      "publishedAt": "2024-01-31T18:56:15Z",
+      "content": "WASHINGTON (AP) The United States on Wednesday attributed the drone attack that killed three U.S. service members in Jordan to the Islamic Resistance in Iraq, an umbrella group of Iran-backed militia… [+7506 chars]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Benjamin Lynch",
+      "title": "Donald Trump Faces Republican Resistance Over Border Deal - Newsweek",
+      "description": "Senator Kevin Cramer, a Republican, said swing voters might not forgive them for avoiding border security deal negotiations.",
+      "url": "https://www.newsweek.com/senate-border-deal-donald-trump-republicans-1865582",
+      "urlToImage": "https://d.newsweek.com/en/full/2342847/kevin-cramer.jpg",
+      "publishedAt": "2024-01-31T12:15:17Z",
+      "content": "A Republican senator pushed back on former President Donald Trump calling a potential deal on border security a \"betrayal.\"\r\n\"If we don't try to do something when we have the moment to do something, … [+3971 chars]"
+    }
+  ]
+}
