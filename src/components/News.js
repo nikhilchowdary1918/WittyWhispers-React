@@ -44,7 +44,7 @@ export class News extends Component {
       Rocket: false,
     });
   }
-
+  handleNextClick hi
   async componentDidMount() {
     this.newsUpdate();
   }
